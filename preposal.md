@@ -9,9 +9,9 @@
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-## I plan to work with Shuo Li
+## I plan to work with Shuo Li.
 
 
 ## Do you have any questions of your own?
 
-## I do not have any questions
+## I do not have any questions.
