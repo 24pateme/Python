@@ -10,7 +10,7 @@ A Hurricane tracker that simulates a hurricane and displays stats about it after
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+We plan on making simulations for each of the hurricanes in the starter file, simulate their path and afterwards display statistics of the hurricane such as how much damage was caused, how many states it impacted, etc. We also plan on adding noise to the hurricane simulations if possible/if we figure that out. We also want to keep adding and improving things as we work on the project, maybe change what image is displayed for each of the different hurrincaes and things along that line.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -36,4 +36,4 @@ Hurricane simulator that simulates all the hurricanes and displays plentful data
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-I will need to learn how to...
+I will need to learn how to implement a click mechanism that when pressed triggers the next hurricane simulation. I was thinking something with the numbers. For example, the first simulation will run when i press "1", second one runs when i press "2", etc. 
