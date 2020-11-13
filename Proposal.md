@@ -28,11 +28,11 @@ Hurricane simulator that simulates the path of many different hurricanes with so
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Hurricane simulator that simulates the path of all the hurricanes we can incude with a good amount of statistics showing for each hurricane after it is simulated.
+Hurricane simulator that simulates the path of all the hurricanes we can incude with a good amount of statistics showing for each hurricane after it is simulated. The hurricane simulations also have noise to them (if applicable).
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-Hurricane simulator that simulates all the hurricanes and displays plentful data/statistics about each hurricane and an dthe end it displays total damage caused by all the hurricanes, which state was hit the ost, and other interesting information.
+Hurricane simulator that simulates all the hurricanes and displays plentful data/statistics about each hurricane and at the end it displays total damage caused by all the hurricanes, which state was hit the ost, and other interesting information.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
