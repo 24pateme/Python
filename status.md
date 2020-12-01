@@ -6,7 +6,7 @@ Meet Patel
 
 #### Your section leader's name
 
-Meet Patel
+Joanne Nichols
 
 #### Project title
 
