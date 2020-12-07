@@ -2,7 +2,7 @@
 
 # Title: 2017 Hurricane Season Simulator
 
-# Created By Meet Patel & Shou Li
+# Created By Meet Patel & Shuo Li
 
 
 ### Project Overview:
