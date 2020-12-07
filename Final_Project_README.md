@@ -29,4 +29,3 @@ Throughout our final project journey, we both enjoyed collaborating together via
 ### Youtube Video Link:
 
 https://youtu.be/vJ_i48hHKdU
-
