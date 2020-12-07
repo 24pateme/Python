@@ -7,7 +7,7 @@
 
 ### Project Overview:
 
-For our project, my partner and I expanded upon the hurricane tracker lab. We added simulations for all the hurricanes in the Starter File we recieved for the hurricae tracker lab and researched information about each of the hurricanes, which displays after a hurricane path is simulated. We also added different sounds to all the hurricanes and changed the gif image of the hurricane(s) to Donald Trump. When you run the program, some instructions pop up and you are then prompted to enter the name of the hurricane you would like to see the simulation for. Furthermore, by entering "total" instead of a hurricane name, information about the whole 2017 hurricane season is displayed and entering "done" kills the program, displaying a small "exited program" message to let you know the program has finished executing.  
+For our project, my partner and I expanded upon the hurricane tracker lab. We added simulations for all the hurricanes in the Starter File we recieved for the hurricae tracker lab and researched information about each of the hurricanes, which displays after a hurricane path is simulated. We also added different sounds to all the hurricanes and changed the gif image of the hurricane(s) to Donald Trump. When you run the program, some instructions pop up and you are then prompted to enter the name of the hurricane you would like to see the simulation for. Also, entering a name that is not included in the provided list will result in a invalid entry message and you will be reprompted to enter a hurricane name for the provided list. Furthermore, by entering "total" instead of a hurricane name, information about the whole 2017 hurricane season is displayed and entering "done" kills the program, displaying a small "exited program" message to let you know the program has finished executing.  
 
 
 ### Obstacles/Challenges We Faced:
@@ -22,4 +22,11 @@ We learned many problem solving strategies throghout the creaton of our final pr
 
 
 ### What We Enjoyed: 
+
 Throughout our final project journey, we both enjoyed collaborating together via zoom. We formed a great friendship and were able to accomplish everything we wanted to, besides the entering "1" on the keyboard to simulate the first hurriacne mechanism, on our final project. Overall, we had a great time!
+
+
+### Youtube Video Link:
+
+https://youtu.be/vJ_i48hHKdU
+
